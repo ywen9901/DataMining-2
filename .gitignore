@@ -1,6 +1,7 @@
 ### Folders ###
 GoogleNews
 kaggle
+data
 
 ### Pickle ###
 *.pkl
